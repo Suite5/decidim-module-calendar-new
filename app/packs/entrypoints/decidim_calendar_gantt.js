@@ -1,4 +1,4 @@
-import "src/decidim/calendar/gantt";
+// import "src/decidim/calendar/gantt";
 
-// CSS
-import "entrypoints/decidim_calendar_gantt.scss";
+// // CSS
+// import "entrypoints/decidim_calendar_gantt.scss";
